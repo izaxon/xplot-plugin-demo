@@ -1,0 +1,9 @@
+{
+   "name": "vsplot-plugin-sample",
+   "version": "1.0.0",
+   "description": "Performs y = log(x) on all active channels.",
+   "main": "plugin.js",
+   "author": "Johan Isaksson",
+   "license": "ISC"
+ }
+ 
